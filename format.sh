@@ -1,0 +1,2 @@
+echo formatting $WATCHEXEC_WRITTEN_PATH
+purty --write $WATCHEXEC_WRITTEN_PATH
